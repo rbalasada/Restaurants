@@ -1,0 +1,261 @@
+Dish_ID,Dish_Name,Cuisine,Category,Price (?)
+IN01,Tomato Shorba,Indian,Soups,120
+IN02,Mulligatawny Soup,Indian,Soups,150
+IN03,Manchow Soup,Indian,Soups,130
+IN04,Paneer Tikka,Indian,Appetizers,250
+IN05,Chicken Tikka,Indian,Appetizers,300
+IN06,Vegetable Samosa,Indian,Appetizers,90
+IN07,Aloo Tikki,Indian,Appetizers,110
+IN08,Butter Chicken,Indian,Main Course,400
+IN09,Paneer Butter Masala,Indian,Main Course,350
+IN10,Dal Makhani,Indian,Main Course,280
+IN11,Biryani (Chicken),Indian,Main Course,320
+IN12,Biryani (Vegetable),Indian,Main Course,280
+IN13,Gulab Jamun,Indian,Desserts,100
+IN14,Rasmalai,Indian,Desserts,120
+IN15,Jalebi,Indian,Desserts,90
+IN16,Masala Chai,Indian,Drinks,50
+IN17,Sweet Lassi,Indian,Drinks,80
+IN18,Mango Lassi,Indian,Drinks,90
+IN19,Roti,Indian,Extras,20
+IN20,Naan,Indian,Extras,40
+IN21,Papad,Indian,Extras,20
+IN22,Curd,Indian,Extras,30
+CN01,Hot and Sour Soup,Chinese,Soups,150
+CN02,Sweet Corn Soup,Chinese,Soups,130
+CN03,Wonton Soup,Chinese,Soups,160
+CN04,Manchow Soup,Chinese,Soups,140
+CN05,Egg Drop Soup,Chinese,Soups,150
+CN06,Spring Rolls,Chinese,Appetizers,180
+CN07,Chicken Lollipop,Chinese,Appetizers,220
+CN08,Crispy Fried Vegetables,Chinese,Appetizers,170
+CN09,Dim Sum,Chinese,Appetizers,200
+CN10,Salt and Pepper Prawns,Chinese,Appetizers,300
+CN11,Schezwan Paneer,Chinese,Appetizers,240
+CN12,Golden Fried Prawns,Chinese,Appetizers,350
+CN13,Chicken Fried Rice,Chinese,Main Course,250
+CN14,Vegetable Fried Rice,Chinese,Main Course,220
+CN15,Schezwan Noodles,Chinese,Main Course,240
+CN16,Chicken Manchurian,Chinese,Main Course,300
+CN17,Chilli Paneer,Chinese,Main Course,280
+CN18,Hunan Chicken,Chinese,Main Course,320
+CN19,Kung Pao Chicken,Chinese,Main Course,340
+CN20,Tofu in Black Bean Sauce,Chinese,Main Course,260
+CN21,Darsaan with Ice Cream,Chinese,Desserts,180
+CN22,Honey Noodles,Chinese,Desserts,150
+CN23,Sesame Balls,Chinese,Desserts,120
+CN24,Fried Ice Cream,Chinese,Desserts,200
+CN25,Mango Pudding,Chinese,Desserts,170
+CN26,Green Tea,Chinese,Drinks,70
+CN27,Jasmine Tea,Chinese,Drinks,80
+CN28,Lemon Iced Tea,Chinese,Drinks,90
+CN29,Lychee Lemonade,Chinese,Drinks,110
+CN30,Plum Juice,Chinese,Drinks,100
+CN31,Stir-Fried Vegetables,Chinese,Extras,200
+CN32,Steamed Rice,Chinese,Extras,150
+CN33,Kimchi,Chinese,Extras,100
+CN34,Hakka Noodles,Chinese,Extras,200
+CN35,Schezwan Sauce,Chinese,Extras,50
+CN36,Veg Momos,Chinese,Appetizers,180
+CN37,Chicken Momos,Chinese,Appetizers,200
+MD01,Lentil Soup,Mediterranean,Soups,180
+MD02,Moroccan Harira Soup,Mediterranean,Soups,200
+MD03,Avgolemono Soup,Mediterranean,Soups,190
+MD04,Tomato and Basil Soup,Mediterranean,Soups,170
+MD05,Chickpea Soup,Mediterranean,Soups,160
+MD06,Hummus Platter,Mediterranean,Appetizers,250
+MD07,Baba Ganoush,Mediterranean,Appetizers,240
+MD08,Falafel,Mediterranean,Appetizers,220
+MD09,Stuffed Grape Leaves,Mediterranean,Appetizers,210
+MD10,Spanakopita,Mediterranean,Appetizers,230
+MD11,Tzatziki with Pita Bread,Mediterranean,Appetizers,200
+MD12,Moussaka,Mediterranean,Main Course,320
+MD13,Chicken Shawarma,Mediterranean,Main Course,300
+MD14,Lamb Gyro,Mediterranean,Main Course,350
+MD15,Grilled Halloumi Salad,Mediterranean,Main Course,270
+MD16,Greek Salad,Mediterranean,Main Course,250
+MD17,Kebab Platter,Mediterranean,Main Course,400
+MD18,Moroccan Couscous,Mediterranean,Main Course,280
+MD19,Baklava,Mediterranean,Desserts,180
+MD20,Turkish Delight,Mediterranean,Desserts,170
+MD21,Basbousa,Mediterranean,Desserts,160
+MD22,Kataifi,Mediterranean,Desserts,190
+MD23,Semolina Pudding,Mediterranean,Desserts,150
+MD24,Turkish Coffee,Mediterranean,Drinks,120
+MD25,Mint Lemonade,Mediterranean,Drinks,100
+MD26,Pomegranate Juice,Mediterranean,Drinks,110
+MD27,Orange Blossom Tea,Mediterranean,Drinks,90
+MD28,Ayran,Mediterranean,Drinks,80
+MD29,Garlic Yogurt Dip,Mediterranean,Extras,70
+MD30,Pickled Vegetables,Mediterranean,Extras,100
+MD31,Za’atar Bread,Mediterranean,Extras,150
+MD32,Olive Tapenade,Mediterranean,Extras,180
+MD33,Tahini Sauce,Mediterranean,Extras,50
+MD34,Grilled Vegetables,Mediterranean,Extras,200
+MD35,Roasted Eggplant,Mediterranean,Extras,220
+TH01,Tom Yum Soup,Thai,Soups,180
+TH02,Tom Kha Gai,Thai,Soups,200
+TH03,Thai Green Curry Soup,Thai,Soups,210
+TH04,Spicy Thai Noodle Soup,Thai,Soups,170
+TH05,Coconut Soup,Thai,Soups,160
+TH06,Spring Rolls,Thai,Appetizers,180
+TH07,Thai Fish Cakes,Thai,Appetizers,250
+TH08,Satay Chicken Skewers,Thai,Appetizers,220
+TH09,Thai Fish Chips,Thai,Appetizers,230
+TH10,Spicy Thai Fries,Thai,Appetizers,190
+TH11,Papaya Salad,Thai,Appetizers,210
+TH12,Pad Thai Noodles,Thai,Main Course,280
+TH13,Green Curry with Chicken,Thai,Main Course,300
+TH14,Massaman Curry,Thai,Main Course,320
+TH15,Red Curry with Tofu,Thai,Main Course,270
+TH16,Pad See Ew,Thai,Main Course,290
+TH17,Pineapple Fried Rice,Thai,Main Course,260
+TH18,Thai Basil Chicken,Thai,Main Course,330
+TH19,Thai BBQ Pork,Thai,Main Course,350
+TH20,Mango Sticky Rice,Thai,Desserts,180
+TH21,Coconut Ice Cream,Thai,Desserts,150
+TH22,Thai Banana Fritters,Thai,Desserts,170
+TH23,Thai Pudding,Thai,Desserts,160
+TH24,Sticky Rice with Custard,Thai,Desserts,200
+TH25,Thai Iced Tea,Thai,Drinks,80
+TH26,Lemon Iced Tea,Thai,Drinks,90
+TH27,Coconut Water,Thai,Drinks,70
+TH28,Thai Coffee,Thai,Drinks,100
+TH29,Watermelon Juice,Thai,Drinks,110
+TH30,Thai Basil and Lime Soda,Thai,Drinks,120
+TH31,Stir-Fried Vegetables,Thai,Extras,180
+TH32,Steamed Jasmine Rice,Thai,Extras,150
+TH33,Thai Green Papaya Salad,Thai,Extras,200
+TH34,Thai Garlic Sauce,Thai,Extras,50
+TH35,Thai Chili Sauce,Thai,Extras,60
+AB01,Tomato Soup,American (BBQ),Soups,180
+AB02,Corn Chowder,American (BBQ),Soups,200
+AB03,BBQ Chicken Soup,American (BBQ),Soups,210
+AB04,Smoky Pumpkin Soup,American (BBQ),Soups,190
+AB05,Broccoli and Cheddar Soup,American (BBQ),Soups,170
+AB06,Onion Rings,American (BBQ),Appetizers,180
+AB07,BBQ Chicken Wings,American (BBQ),Appetizers,250
+AB08,Pulled Pork Sliders,American (BBQ),Appetizers,270
+AB09,Buffalo Cauliflower Bites,American (BBQ),Appetizers,220
+AB10,Grilled Shrimp Skewers,American (BBQ),Appetizers,230
+AB11,Fried Pickles,American (BBQ),Appetizers,210
+AB12,BBQ Ribs,American (BBQ),Main Course,400
+AB13,Smoked Brisket,American (BBQ),Main Course,450
+AB14,BBQ Pulled Pork Sandwich,American (BBQ),Main Course,320
+AB15,Grilled Chicken BBQ,American (BBQ),Main Course,350
+AB16,BBQ Beef Burger,American (BBQ),Main Course,330
+AB17,BBQ Sausages,American (BBQ),Main Course,280
+AB18,Grilled BBQ Veggies,American (BBQ),Main Course,250
+AB19,Sweet and Spicy Ribs,American (BBQ),Main Course,380
+AB20,Apple Pie,American (BBQ),Desserts,180
+AB21,Pecan Pie,American (BBQ),Desserts,200
+AB22,Chocolate Lava Cake,American (BBQ),Desserts,220
+AB23,Peach Cobbler,American (BBQ),Desserts,210
+AB24,Banana Pudding,American (BBQ),Desserts,170
+AB25,Iced Tea,American (BBQ),Drinks,80
+AB26,Lemonade,American (BBQ),Drinks,90
+AB27,Soft Drinks,American (BBQ),Drinks,60
+AB28,Milkshake,American (BBQ),Drinks,150
+AB29,Root Beer,American (BBQ),Drinks,100
+AB30,BBQ Sauce,American (BBQ),Extras,50
+AB31,Cornbread,American (BBQ),Extras,70
+AB32,Grilled Corn on the Cob,American (BBQ),Extras,90
+AB33,Coleslaw,American (BBQ),Extras,80
+AB34,Mac and Cheese,American (BBQ),Extras,120
+IT01,Minestrone Soup,Italian,Soups,180
+IT02,Tomato Basil Soup,Italian,Soups,160
+IT03,Gnocchi Soup,Italian,Soups,210
+IT04,Creamy Mushroom Soup,Italian,Soups,190
+IT05,Italian Wedding Soup,Italian,Soups,200
+IT06,Bruschetta,Italian,Appetizers,220
+IT07,Arancini (Rice Balls),Italian,Appetizers,250
+IT08,Caprese Salad,Italian,Appetizers,230
+IT09,Frittura di Mare,Italian,Appetizers,270
+IT10,Stuffed Mushrooms,Italian,Appetizers,240
+IT11,Margherita Pizza,Italian,Main Course,320
+IT12,Pepperoni Pizza,Italian,Main Course,350
+IT13,Quattro Stagioni Pizza,Italian,Main Course,370
+IT14,Lasagna Bolognese,Italian,Main Course,380
+IT15,Spaghetti Aglio e Olio,Italian,Main Course,290
+IT16,Fettuccine Alfredo,Italian,Main Course,350
+IT17,Risotto alla Milanese,Italian,Main Course,400
+IT18,Osso Buco,Italian,Main Course,420
+IT19,Tiramisu,Italian,Desserts,220
+IT20,Cannoli,Italian,Desserts,180
+IT21,Panna Cotta,Italian,Desserts,190
+IT22,Ricotta Cheesecake,Italian,Desserts,250
+IT23,Zabaglione,Italian,Desserts,230
+IT24,Espresso,Italian,Drinks,90
+IT25,Cappuccino,Italian,Drinks,120
+IT26,Italian Soda,Italian,Drinks,100
+IT27,Limoncello,Italian,Drinks,150
+IT28,Italian Iced Tea,Italian,Drinks,80
+IT29,Focaccia Bread,Italian,Extras,60
+IT30,Parmesan Fries,Italian,Extras,110
+IT31,Garlic Bread,Italian,Extras,90
+IT32,Grilled Vegetables,Italian,Extras,120
+IT33,Balsamic Glaze,Italian,Extras,50
+MX01,Tortilla Soup,Mexican,Soups,180
+MX02,Pozole,Mexican,Soups,220
+MX03,Sopa de Lima,Mexican,Soups,210
+MX04,Black Bean Soup,Mexican,Soups,190
+MX05,Chicken and Rice Soup,Mexican,Soups,200
+MX06,Guacamole,Mexican,Appetizers,250
+MX07,Nachos with Cheese,Mexican,Appetizers,280
+MX08,Queso Fundido,Mexican,Appetizers,270
+MX09,Elote (Mexican Street Corn),Mexican,Appetizers,230
+MX10,Mexican Samosas,Mexican,Appetizers,210
+MX11,Tacos al Pastor,Mexican,Main Course,300
+MX12,Beef Burrito,Mexican,Main Course,320
+MX13,Enchiladas Verde,Mexican,Main Course,350
+MX14,Chiles Rellenos,Mexican,Main Course,400
+MX15,Fajitas de Pollo,Mexican,Main Course,370
+MX16,Carne Asada,Mexican,Main Course,450
+MX17,Fish Tacos,Mexican,Main Course,350
+MX18,Mexican Paella,Mexican,Main Course,380
+MX19,Churros,Mexican,Desserts,180
+MX20,Tres Leches Cake,Mexican,Desserts,210
+MX21,Flan,Mexican,Desserts,160
+MX22,Mexican Chocolate Cake,Mexican,Desserts,230
+MX23,Paletas (Mexican Ice Pops),Mexican,Desserts,120
+MX24,Horchata,Mexican,Drinks,100
+MX25,Mexican Hot Chocolate,Mexican,Drinks,110
+MX26,Jamaica (Hibiscus Tea),Mexican,Drinks,90
+MX27,Margarita,Mexican,Drinks,200
+MX28,Tequila Sunrise,Mexican,Drinks,220
+MX29,Salsa Roja,Mexican,Extras,50
+MX30,Mexican Rice,Mexican,Extras,80
+MX31,Refried Beans,Mexican,Extras,70
+MX32,Guacamole with Chips,Mexican,Extras,160
+MX33,Mexican Cornbread,Mexican,Extras,90
+SF01,Lobster Bisque,Seafood,Soups,350
+SF02,Clam Chowder,Seafood,Soups,280
+SF03,Shrimp Cocktail,Seafood,Soups,300
+SF04,Fish Chowder,Seafood,Soups,250
+SF05,Crab Soup,Seafood,Soups,320
+SF06,Grilled Prawns,Seafood,Appetizers,400
+SF07,Crab Cakes,Seafood,Appetizers,450
+SF08,Ceviche,Seafood,Appetizers,350
+SF09,Oysters Rockefeller,Seafood,Appetizers,500
+SF10,Calamari Fritti,Seafood,Appetizers,300
+SF11,Grilled Salmon,Seafood,Main Course,500
+SF12,Fish Tacos,Seafood,Main Course,350
+SF13,Lobster Roll,Seafood,Main Course,650
+SF14,Seafood Paella,Seafood,Main Course,700
+SF15,Shrimp Scampi,Seafood,Main Course,600
+SF16,Baked Cod,Seafood,Main Course,550
+SF17,Crab Legs,Seafood,Main Course,750
+SF18,Tuna Tartare,Seafood,Main Course,450
+SF19,Key Lime Pie,Seafood,Desserts,250
+SF20,Panna Cotta with Berries,Seafood,Desserts,280
+SF21,Chocolate Mousse,Seafood,Desserts,220
+SF22,Coconut Cream Pie,Seafood,Desserts,230
+SF23,Sorbet,Seafood,Desserts,150
+SF24,White Wine Sangria,Seafood,Drinks,220
+SF25,Mojito,Seafood,Drinks,180
+SF26,Margarita,Seafood,Drinks,200
+SF27,Pina Colada,Seafood,Drinks,220
+SF28,Iced Tea,Seafood,Drinks,100
+SF29,Garlic Bread,Seafood,Extras,120
+SF30,Steamed Vegetables,Seafood,Extras,150
+SF31,French Fries,Seafood,Extras,100
